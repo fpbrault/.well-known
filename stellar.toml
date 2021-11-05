@@ -1,0 +1,8 @@
+ACCOUNTS = [ "GDVLJKTGQGI5NXD5D2VBQZVQ5YVX7MJ7UHKPW6INEAHI4PKYDUT77KCS" ]
+SIGNING_KEY = "GDVLJKTGQGI5NXD5D2VBQZVQ5YVX7MJ7UHKPW6INEAHI4PKYDUT77KCS"
+
+[[PRINCIPALS]]
+name = "Felix Perron-Brault"
+email = "fpbrault@beign.es"
+keybase = "fpbrault"
+github = "https://www.github.com/fpbrault"
